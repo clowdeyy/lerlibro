@@ -17,3 +17,7 @@ C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.frmSale
 C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.frmHRPanel.resources
 C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro INC.vbprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.ucUsers.resources
+C:\Users\ACER\Documents\GitHub\lerlibro\Lerlibro INC\bin\Debug\Lerlibro INC.exe.config
+C:\Users\ACER\Documents\GitHub\lerlibro\Lerlibro INC\obj\Debug\Lerlibro INC.exe
+C:\Users\ACER\Documents\GitHub\lerlibro\Lerlibro INC\obj\Debug\Lerlibro INC.xml
+C:\Users\ACER\Documents\GitHub\lerlibro\Lerlibro INC\obj\Debug\Lerlibro INC.pdb

@@ -111,6 +111,12 @@
       <DependentUpon>frmMain.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="HR\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HR\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="HR\frmHRPanel.Designer.vb">
       <DependentUpon>frmHRPanel.vb</DependentUpon>
     </Compile>
