@@ -1,0 +1,19 @@
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\bin\Debug\Lerlibro INC.exe.config
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\bin\Debug\Lerlibro INC.exe
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\bin\Debug\Lerlibro INC.pdb
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\bin\Debug\Lerlibro INC.xml
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.frmMain.resources
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.Resources.resources
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro INC.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro INC.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro INC.exe
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro INC.xml
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro INC.pdb
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.frmMISPanel.resources
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.frmAccountingPanel.resources
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.frmSalesPanel.resources
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.frmHRPanel.resources
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro INC.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Lerlibro INC\Lerlibro INC\obj\Debug\Lerlibro_INC.ucUsers.resources
